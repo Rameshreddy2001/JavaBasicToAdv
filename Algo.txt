@@ -1,0 +1,3 @@
+Welcome to basic algo's.
+1st one is linear search
+and binary search
